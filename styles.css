@@ -1,0 +1,20 @@
+@keyframes scroll {
+  0% { transform: translateX(0); }
+  100% { transform: translateX(-50%); }
+}
+.animate-scroll {
+  display: flex;
+  animation: scroll 20s linear infinite;
+  width: max-content;
+}
+
+.partner-logo {
+  max-width: 120px;
+  height: auto;
+  object-fit: contain;
+}  
+
+.card-image{
+    height: 270px;
+    object-fit: cover;
+}
