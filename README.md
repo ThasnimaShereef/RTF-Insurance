@@ -1,6 +1,6 @@
 # 🛡️ RTF Insurance Brokers - Landing Page
 
-A responsive, visually rich website for RTF Insurance Brokers built using **HTML5**, **CSS#**, **Bootstrap 5**, and **Font Awesome**. Designed to showcase services, build trust, and convert leads effectively.
+A responsive, visually rich website for RTF Insurance Brokers built using **HTML5**, **CSS3**, **Bootstrap 5**, and **Font Awesome**. Designed to showcase services, build trust, and convert leads effectively.
 
 ---
 
